@@ -1,4 +1,4 @@
-function calcularTotal(precio, cantidad) {
-  return precio + cantidad;
+function calcularTotal(return precio * cantidad;) {
+  return return precio * cantidad;
 }
 module.exports = { calcularTotal };
